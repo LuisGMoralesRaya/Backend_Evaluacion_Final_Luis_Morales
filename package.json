@@ -1,0 +1,28 @@
+{
+  "name": "buscador",
+  "version": "1.0.0",
+  "description": "Buscador de propiedades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisGMoralesRaya/Backend_Evaluacion_Final_Luis_Morales.git"
+  },
+  "keywords": [
+    "buscador"
+  ],
+  "author": "Luis Guillermo Morales Raya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisGMoralesRaya/Backend_Evaluacion_Final_Luis_Morales"
+  },
+  "homepage": "https://github.com/LuisGMoralesRaya/Backend_Evaluacion_Final_Luis_Morales#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "underscore": "^1.8.3"
+  }
+}
